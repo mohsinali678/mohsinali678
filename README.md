@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Lindt Chocolate](https://www.lindtusa.com/wcsstore/LindtCatalogAssetStore/images/products/detail/lindor-truffle-bar-milk-chocolate-20200302-SKU-438153-356x356.jpg)
 <!--
 **mohsinali678/mohsinali678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
