@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A a current fellow into the highly selective Pursuit developer cohort, I’ve been passionate about computers since I started making applications on my first desktop computer as a kid, which led to my developing web sites using JavaScript.
+As a current fellow into the highly selective Pursuit developer cohort, I’ve been passionate about computers since I started making applications on my first desktop computer as a kid, which led to my developing web sites using JavaScript.
 
 As an Uber driver in NYC the most rewarding part of my job has been the successful navigation in remote and far flung areas using the proprietary interface, and I am also a NYC Department of Consumer Affairs licensed and proficient contractor for home improvement.
 
