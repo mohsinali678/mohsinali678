@@ -1,17 +1,10 @@
 ### Hi there 👋
-![Lindt Chocolate](https://www.lindtusa.com/wcsstore/LindtCatalogAssetStore/images/products/detail/lindor-truffle-bar-milk-chocolate-20200302-SKU-438153-356x356.jpg)
+
 <!--
+![]()
 **mohsinali678/mohsinali678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-A a current fellow into the highly selective Pursuit developer cohort, I’ve been passionate about computers since I started making applications on my first desktop computer as a kid, which led to my developing web sites using JavaScript.
-
-As an Uber driver in NYC the most rewarding part of my job has been the successful navigation in remote and far flung areas using the proprietary interface, and I am also a NYC Department of Consumer Affairs licensed and proficient contractor for home improvement.
-
-I’d love to work at a company like Uber that specializes in providing ride sharing services, keeping people connected and providing on demand delivery services.
-
-I listen actively, being highly respectful and showing friendly behavior. I am a person with high potency of tolerance and I hope to be supportive and encouraging with my friends and colleagues alike. Outside of coding I enjoy nice walks and time with family and friends. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -22,3 +15,11 @@ I listen actively, being highly respectful and showing friendly behavior. I am a
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A a current fellow into the highly selective Pursuit developer cohort, I’ve been passionate about computers since I started making applications on my first desktop computer as a kid, which led to my developing web sites using JavaScript.
+
+As an Uber driver in NYC the most rewarding part of my job has been the successful navigation in remote and far flung areas using the proprietary interface, and I am also a NYC Department of Consumer Affairs licensed and proficient contractor for home improvement.
+
+I’d love to work at a company like Uber that specializes in providing ride sharing services, keeping people connected and providing on demand delivery services.
+
+I listen actively, being highly respectful and showing friendly behavior. I am a person with high potency of tolerance and I hope to be supportive and encouraging with my friends and colleagues alike. Outside of coding I enjoy nice walks and time with family and friends. 
